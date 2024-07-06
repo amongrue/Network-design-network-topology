@@ -6,7 +6,7 @@ Project Network diagramprovides a visual representation of the network and integ
 - <b>(SSH)server</b> 
 - <b>Vulnerabilities, Security, Secure, Company A &B, topology diagrams</b>
 - <b>Business, Architecture, Solutions, Risk, infrastructure, Cloud, Remote Access</b>
-- <b>Email, HTTPS, FTP, DNS, Voice,TCP/IP model,HTTPS, and TCP/IP addressing layers,ender-user interface application services,Zero Trust processing,Endpoint Detection and Response, MFA (DUO), Firewall, Next-Gen Firewalls,Screened Subnet, Network-based Intrusion Detection Systems(NIDS),Network Access Control(NAC),Authentication(Integrity/Non-repudiation),HTTPS and more.</b> 
+- <b>Email, HTTPS, FTP, DNS, Voice,TCP/IP model,HTTPS, and TCP/IP addressing layers, ender-user interface application services, Zero Trust processing, Endpoint Detection and Response, MFA (DUO), Firewall, Next-Gen Firewalls,Screened Subnet, Network-based Intrusion Detection Systems(NIDS), Network Access Control(NAC), Authentication(Integrity/Non-repudiation), HTTPS and more.</b> 
 
 <h2>Environments Used </h2>
 
