@@ -16,7 +16,7 @@ Project Network diagramprovides a visual representation of the network and integ
 <h2>Program walk-through:</h2>
 <h2>Configured and Encrypting hardware, & software, such as routers, switches, LAN, Server WAN, MAN and cloud-based storages, databases, Application and VMware devices, and cloud-based services:</h2>
 <h2>Network Settings for third-party provider system,Internal Systems,optimizing risk controls,scalability and resiliency,Personally Identifiable Information – PII Confidentiality and Integrity:</h2>
-<h2>Data at Rest, and Intransite,Cisco switches, wireless access points, and router,Exchange server, Application server, SharePoint, and File serves,Multi-factor Authentication (MFA) on Network,Remote Execution (REXEC) server ,and ect. :</h2>
+<h2>Data at Rest, and Intransite,Cisco switches, wireless access points, and router,Exchange server, Application server, SharePoint, and File serves,Multi-factor Authentication (MFA) on Network,Remote Execution (REXEC) server ,and ect.</h2>
 
 
 <p align="center">
